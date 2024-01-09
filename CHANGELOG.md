@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.114.0](https://github.com/googleapis/google-api-python-client/compare/v2.113.0...v2.114.0) (2024-01-09)
+
+
+### Features
+
+* **aiplatform:** Update the api https://togithub.com/googleapis/google-api-python-client/commit/fe0833fe55e09bf635febf35723215ae50ef24fd ([377c2a1](https://github.com/googleapis/google-api-python-client/commit/377c2a1e4f9b8a01e104f2e27a4be2d2e5d5d1fa))
+* **compute:** Update the api https://togithub.com/googleapis/google-api-python-client/commit/003dca6e4a5ea6359998a1961ce82cb2acf436cf ([377c2a1](https://github.com/googleapis/google-api-python-client/commit/377c2a1e4f9b8a01e104f2e27a4be2d2e5d5d1fa))
+* **storage:** Update the api https://togithub.com/googleapis/google-api-python-client/commit/3f48ed93a15147820e2e420d23c8cba48e6e69f6 ([377c2a1](https://github.com/googleapis/google-api-python-client/commit/377c2a1e4f9b8a01e104f2e27a4be2d2e5d5d1fa))
+
+
+### Bug Fixes
+
+* Removed indent from discovery cache json files ([#2099](https://github.com/googleapis/google-api-python-client/issues/2099)) ([0a28454](https://github.com/googleapis/google-api-python-client/commit/0a2845455026dc6a494047f657f1af40923d5107)), closes [#1967](https://github.com/googleapis/google-api-python-client/issues/1967)
+
 ## [2.113.0](https://github.com/googleapis/google-api-python-client/compare/v2.112.0...v2.113.0) (2024-01-08)
 
 
